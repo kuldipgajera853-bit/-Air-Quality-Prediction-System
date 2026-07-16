@@ -14,7 +14,7 @@ This project predicts Air Quality Index (AQI) using IoT sensors and Machine Lear
 - Python
 - Scikit-learn
 - Streamlit
-- IoT Sensors (MQ135, MQ7, PMS5003)
+  
 
 # Model Performance
 - R² Score: 0.92
